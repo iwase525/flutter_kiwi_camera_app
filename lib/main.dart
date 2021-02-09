@@ -142,3 +142,6 @@ class DisplayPictureScreen extends StatelessWidget {
     );
   }
 }
+
+//デモ　最初の編集です。
+//Edited by Issei Ueda on 2021/02/09
